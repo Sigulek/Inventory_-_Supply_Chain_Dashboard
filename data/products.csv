@@ -1,0 +1,11 @@
+product_id,product_name,category,reorder_point
+1,Espresso Beans,Beans,50
+2,Filter Coffee,Beans,100
+3,Decaf Beans,Beans,40
+4,Cold Brew Bottles,Beverages,30
+5,Ground Coffee,Beans,80
+6,French Press,Equipment,10
+7,Coffee Filters,Accessories,20
+8,Instant Coffee,Beans,60
+9,Mugs,Accessories,15
+10,Kettles,Equipment,5

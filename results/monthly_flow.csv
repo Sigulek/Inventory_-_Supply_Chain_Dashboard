@@ -1,0 +1,61 @@
+month,product_id,product_name,total_incoming,total_outgoing
+2024-12,1,"Espresso Beans",40,48
+2024-12,2,"Filter Coffee",65,68
+2024-12,3,"Decaf Beans",27,6
+2024-12,4,"Cold Brew Bottles",105,0
+2024-12,5,"Ground Coffee",95,42
+2024-12,6,"French Press",25,59
+2024-12,7,"Coffee Filters",70,59
+2024-12,8,"Instant Coffee",16,44
+2024-12,9,Mugs,50,88
+2024-12,10,Kettles,174,40
+2025-01,1,"Espresso Beans",57,96
+2025-01,2,"Filter Coffee",55,21
+2025-01,3,"Decaf Beans",102,23
+2025-01,4,"Cold Brew Bottles",69,46
+2025-01,5,"Ground Coffee",5,8
+2025-01,6,"French Press",63,47
+2025-01,7,"Coffee Filters",35,27
+2025-01,8,"Instant Coffee",169,88
+2025-01,9,Mugs,69,49
+2025-01,10,Kettles,169,220
+2025-02,1,"Espresso Beans",53,54
+2025-02,2,"Filter Coffee",47,162
+2025-02,3,"Decaf Beans",37,102
+2025-02,4,"Cold Brew Bottles",65,117
+2025-02,5,"Ground Coffee",90,0
+2025-02,6,"French Press",66,30
+2025-02,7,"Coffee Filters",42,45
+2025-02,8,"Instant Coffee",21,47
+2025-02,9,Mugs,138,100
+2025-02,10,Kettles,69,85
+2025-03,1,"Espresso Beans",57,0
+2025-03,2,"Filter Coffee",104,42
+2025-03,3,"Decaf Beans",79,44
+2025-03,4,"Cold Brew Bottles",57,79
+2025-03,5,"Ground Coffee",60,104
+2025-03,6,"French Press",6,69
+2025-03,7,"Coffee Filters",63,36
+2025-03,8,"Instant Coffee",1,117
+2025-03,9,Mugs,44,85
+2025-03,10,Kettles,16,43
+2025-04,1,"Espresso Beans",0,54
+2025-04,2,"Filter Coffee",0,99
+2025-04,3,"Decaf Beans",30,228
+2025-04,4,"Cold Brew Bottles",143,27
+2025-04,5,"Ground Coffee",164,96
+2025-04,6,"French Press",46,34
+2025-04,7,"Coffee Filters",39,4
+2025-04,8,"Instant Coffee",59,9
+2025-04,9,Mugs,81,90
+2025-04,10,Kettles,47,85
+2025-05,1,"Espresso Beans",61,60
+2025-05,2,"Filter Coffee",120,98
+2025-05,3,"Decaf Beans",35,126
+2025-05,4,"Cold Brew Bottles",56,1
+2025-05,5,"Ground Coffee",49,38
+2025-05,6,"French Press",32,84
+2025-05,7,"Coffee Filters",0,45
+2025-05,8,"Instant Coffee",20,82
+2025-05,9,Mugs,75,88
+2025-05,10,Kettles,1,81

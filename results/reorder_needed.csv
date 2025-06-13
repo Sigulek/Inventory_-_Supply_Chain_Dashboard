@@ -1,0 +1,8 @@
+product_id,product_name,reorder_point,stock_lvl
+3,"Decaf Beans",40,-219
+8,"Instant Coffee",60,-101
+2,"Filter Coffee",100,-99
+6,"French Press",10,-85
+10,Kettles,5,-78
+1,"Espresso Beans",50,-44
+9,Mugs,15,-43
